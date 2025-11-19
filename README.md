@@ -1,6 +1,6 @@
 # Word2Vec Embeddings and Topic Clustering on a  News Dataset
 
-This repository contains part of my MSc *Machine Learning on Big Data* coursework (at University of East London).  
+This repository contains a personal project based on my MSc *Machine Learning on Big Data* coursework (at University of East London), and is not an official university resource. 
 The aim is to demonstrate how distributed word embeddings and clustering can be implemented on a large news dataset using PySpark and then extended to a real‑time streaming use case.
 
 The work is split into two main parts:
@@ -52,6 +52,7 @@ word2vec-streaming-topic-clustering/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── screenshots
 └── src/
     ├── train_word2vec_kmeans.py
     └── streaming_topic_clustering.py
