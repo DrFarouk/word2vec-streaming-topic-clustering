@@ -124,29 +124,36 @@ These are some screenshots from my original coursework showing the outputs I rec
     
     *Output showing successful completion of dataset pre-processing steps*
 
-3. **Training the Model**
+2. **Training the Model**
 
     <img src="screenshots/Screenshot_(02).png" alt="Screenshot" width="600"/>
     
     *Output showing model training completed successfully*
 
-4. **Finding Closest Words** (Nearest Neighbour Analysis)
+3. **Finding Closest Words** (Nearest Neighbour Analysis)
 
     <img src="screenshots/Screenshot_(03).png" alt="Screenshot" width="600"/>
     
     *Top 5 closest words to " president" and "economy"*
 
-5. **Clustering Word Vectors** (using K-Means)
+4. **Clustering Word Vectors** (using K-Means)
 
     <img src="screenshots/Screenshot_(04).png" alt="Screenshot" width="600"/>
     
     *Clustering Output Sample*
 
-6. **Visualisation** (using PCA in Python)
+5. **Visualisation** (using PCA in Python)
 
-    <img src="screenshots/Figure_1.png" alt="plot" width="800"/>
+    <img src="screenshots/Figure_1.png" alt="plot" width="600"/>
     
     *2D plot of word vectors using PCA*
+
+6. **Streaming Topic Clustering**
+
+    <img src="screenshots/Screenshot_(05).png" alt="plot" width="600"/>
+    
+    *Testing Live Streaming Topic Clustering*
+
 ---
 
 ## Notes
