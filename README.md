@@ -119,23 +119,23 @@ The streaming job will print each incoming line together with its **predicted cl
 These are some screenshots from my original coursework showing the outputs I received throughout my work.
 
 1. **Dataset Pre-processing Steps**
-    <img src="screenshots/Screenshot_(01).png" alt="Screenshot" width="600"/>
+    <img src="screenshots/Screenshot_(01).png" alt="Screenshot" width="800"/>
     *Output showing successful completion of dataset pre-processing steps*
 
 2. **Training the Model**
-    <img src="screenshots/Screenshot_(02).png" alt="Screenshot" width="600"/>
+    <img src="screenshots/Screenshot_(02).png" alt="Screenshot" width="800"/>
     *Output showing model training completed successfully*
 
 3. **Finding Closest Words** (Nearest Neighbour Analysis)
-    <img src="screenshots/Screenshot_(03).png" alt="Screenshot" width="600"/>
+    <img src="screenshots/Screenshot_(03).png" alt="Screenshot" width="800"/>
     *Top 5 closest words to " president" and "economy"*
 
 4. **Clustering Word Vectors** (using K-Means)
-    <img src="screenshots/Screenshot_(04).png" alt="Screenshot" width="600"/>
+    <img src="screenshots/Screenshot_(04).png" alt="Screenshot" width="800"/>
     *Clustering Output Sample*
 
 5. **Visualisation** (using PCA in Python)
-    <img src="screenshots/Figure_1.png" alt="plot" width="600"/>
+    <img src="screenshots/Figure_1.png" alt="plot" width="800"/>
     *2D plot of word vectors using PCA*
 ---
 
